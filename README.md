@@ -3,6 +3,12 @@
 MangoCare (ম্যাঙ্গো-কেয়ার) is a bilingual (English/Bangla) agricultural mobile application that uses a local, offline TensorFlow Lite (`.tflite`) model to diagnose mango leaf diseases via the device camera or gallery, providing instant treatment plans and logging scan history.
 
 ---
+You can just test the app in a cloud-emulator without installing on your phone. Here is the link:
+https://appetize.io/app/b_4tlweuxwgwb6qazyurjuxktubq
+
+*The emulator may take few minutes to reload and then tap and the application will be opened and fully functional*
+---
+
 
 ## 🤝 How to Set Up the Project (Complete Guide)
 
